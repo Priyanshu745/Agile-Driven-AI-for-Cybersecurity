@@ -23,5 +23,5 @@ G.add_edges_from([
 plt.figure(figsize=(10, 5))
 pos = {key: value for key, value in nodes.items()}
 nx.draw(G, pos, with_labels=True, node_size=3000, node_color="lightgreen", font_size=10, edge_color="gray", width=2)
-plt.title("Figure 7: The Agile DevSecOps Cycle")
+
 plt.show()
