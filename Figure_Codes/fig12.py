@@ -42,5 +42,5 @@ ax.set_ylim(-1, 11)
 ax.set_xticks([])
 ax.set_yticks([])
 ax.set_frame_on(False)
-plt.title("Figure 12: Deployment and Testing Strategy")
+
 plt.show()
