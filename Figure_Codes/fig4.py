@@ -21,5 +21,5 @@ G.add_edges_from([
 plt.figure(figsize=(8, 4))
 pos = nx.spring_layout(G)
 nx.draw(G, pos, with_labels=True, node_size=3000, node_color="lightcoral", font_size=10, edge_color="black", width=2)
-plt.title("Figure 4: Challenges in Traditional Cybersecurity")
+
 plt.show()
