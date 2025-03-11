@@ -11,6 +11,6 @@ for i in range(len(years)):
 
 plt.xlabel("Year")
 plt.ylabel("Threat Evolution Level")
-plt.title("Figure 5: Evolution of Cyber Threats Over Time")
+
 plt.grid(True)
 plt.show()
