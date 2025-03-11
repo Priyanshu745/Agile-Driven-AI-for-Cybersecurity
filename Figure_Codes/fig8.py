@@ -14,6 +14,6 @@ plt.bar(x + bar_width, ai_security, width=bar_width, label="AI-Driven Security",
 
 plt.xticks(x + bar_width / 2, categories, rotation=20)
 plt.ylabel("Effectiveness Score (1-5)")
-plt.title("Figure 8: AI vs. Traditional Cybersecurity Approaches")
+
 plt.legend()
 plt.show()
