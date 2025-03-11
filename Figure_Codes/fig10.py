@@ -37,5 +37,5 @@ ax.set_ylim(0, 11)
 ax.set_xticks([])
 ax.set_yticks([])
 ax.set_frame_on(False)
-plt.title("Figure 10: Data Collection & Preprocessing Workflow")
+
 plt.show()
