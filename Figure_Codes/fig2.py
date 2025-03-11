@@ -14,6 +14,6 @@ plt.bar([p + bar_width for p in x], agile_values, width=bar_width, label="Agile 
 
 plt.xticks([p + bar_width / 2 for p in x], categories, rotation=20)
 plt.ylabel("Effectiveness Score (1-5)")
-plt.title("Figure 2: Agile vs. Traditional Cybersecurity Approaches")
+
 plt.legend()
 plt.show()
