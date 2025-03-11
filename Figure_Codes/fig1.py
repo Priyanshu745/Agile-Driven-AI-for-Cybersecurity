@@ -12,6 +12,6 @@ for i in range(len(years)):
 
 plt.xlabel("Year")
 plt.ylabel("Security Approach Level")
-plt.title("Figure 1: Evolution of Cybersecurity Approaches")
+
 plt.grid(True)
 plt.show()
