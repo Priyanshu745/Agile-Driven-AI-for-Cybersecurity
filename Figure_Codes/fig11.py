@@ -56,5 +56,5 @@ ax.set_ylim(6, 15)
 ax.set_xticks([])
 ax.set_yticks([])
 ax.set_frame_on(False)
-plt.title("Figure 11: AI Model Training Workflow")
+
 plt.show()
